@@ -9,6 +9,9 @@ git clone git@github.com:shirshasa/simple_text_classification.git
 cd simple_text_classification
 ```
 
+To have reproducible results, you can download the dataset from [google drive](https://drive.google.com/file/d/1rCapvGu2Ir06QZBALNEzyXucoibv2H0B/view?usp=sharing).
+
+
 ### New model training
 
 ```bash
