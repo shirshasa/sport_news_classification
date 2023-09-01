@@ -1,14 +1,14 @@
 ## Roadmap
 
 
-1. In notebook 1-initial_EDA_and_data_cleaning: 
+1. In notebook [1-initial_EDA_and_data_cleaning](reports/1-initial_EDA_and_data_cleaning.html): 
     - initial study of a dataset and description of a classification task.
     - duplicates removal
    
-2. In the notebook 2-EDA:
+2. In the notebook [2-EDA](reports/2-EDA.html):
     - analysis of texts in the trainset
 
-3. In the notebook 3-tf-idf-baseline-model-evaluation-error-analysis:
+3. In the notebook [3-tf-idf-baseline-model-evaluation-error-analysis](reports/3-tf-idf-baseline-model-evaluation-error-analysis.html):
     - dataset pre-processing
     - dataset splitting into train and validation sets (based on oid grouping, in the way, there is no intersection in oid in train and val sets)
     - preparation and selection of tf-idf features

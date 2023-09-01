@@ -5,7 +5,7 @@ This repository contains code for training a text classification model and model
 ### Installation
 
 ```bash
-git clone
+git clone git@github.com:shirshasa/simple_text_classification.git
 cd simple_text_classification
 ```
 
