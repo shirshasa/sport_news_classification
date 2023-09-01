@@ -1,0 +1,19 @@
+name: text_clf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip=23.2.1
+  - pandas=2.0.3
+  - numpy=1.25.2
+  - matplotlib=3.7.2
+  - jupyter=1.0.0
+  - scikit-learn=1.2.0
+  - seaborn=0.12.2
+  - nltk=3.7
+  - lime=0.2.0.1
+  - pymorphy2=0.9.1
+  - pip:
+      - fastapi==0.103.0
+prefix: /home/katsiaryna/miniconda3/envs/text_clf

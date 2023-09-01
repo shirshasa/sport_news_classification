@@ -1,0 +1,2 @@
+UNKNOWN_CATEGORY_NAME = "unknown_category"
+CONFIDENCE_THRESHOLD = 0.5
